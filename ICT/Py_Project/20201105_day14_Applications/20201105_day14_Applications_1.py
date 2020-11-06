@@ -167,7 +167,7 @@ while True :
         result = allcal(numberA, numberB,1)
         print("더하기 결과는 %d 입니다.", %result)
 
-    elif menu == 2 :
+    elif(menu == 2) :
         result = allcal(numberA, numberB,2)
         print("빼기 결과는 %d입니다.", %result)
 

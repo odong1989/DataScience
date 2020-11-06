@@ -74,7 +74,7 @@ def mul(a,b) :
 def add(a,b) :
     c = a+b
     print(c)
-    d = mul(a,b)
+    d = mul(a,b) #다른 함수 mul()을 호출하여 곱하기도 실시.
     print(d)
 
 x = 10
